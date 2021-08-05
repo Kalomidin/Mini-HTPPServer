@@ -42,6 +42,9 @@ Software that is used for testing:
 Latest Updates:
 05. 08. 2021
 1. Multithread option:
+
 ![](https://i.imgur.com/HU7Qcgb.png)
+
 2: Single Thread Option:
+
 ![](https://i.imgur.com/djNNIaZ.png)
